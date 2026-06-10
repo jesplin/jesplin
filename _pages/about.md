@@ -11,7 +11,7 @@ profile:
   more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -26,6 +26,7 @@ latest_posts:
 
 Welcome! I am a PhD Candidate at the University of Wisconsin-Madison in Political Science. I study American Politics, specializing in election policy and administration.
 
+<br>
 
 ## Research
 <a name="research"></a>
@@ -39,6 +40,7 @@ Your research description here...
 {% bibliography %}
 </div>
 
+<br>
 
 ## Data
 <a name="data"></a>
