@@ -1,0 +1,8 @@
+- name: about
+  url: /
+- name: research
+  url: /#research
+- name: data
+  url: /#data
+- name: cv
+  url: /cv/
