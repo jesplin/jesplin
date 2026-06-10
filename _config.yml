@@ -343,7 +343,7 @@ scholar:
   last_name: [Esplin]
   first_name: [Jess]
 
-  style: apa
+  style: _bibliography/american-political-science-association.csl
   locale: en
 
   source: /_bibliography/
