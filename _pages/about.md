@@ -25,3 +25,31 @@ latest_posts:
 ---
 
 Welcome! I am a PhD Candidate at the University of Wisconsin-Madison in Political Science. I study American Politics, specializing in election policy and administration.
+
+# -----------------------------------------------------------------------------
+# Research Section
+# -----------------------------------------------------------------------------
+
+## Research
+<a name="research"></a>
+Your research description here...
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
+
+
+# -----------------------------------------------------------------------------
+# Data Section
+# -----------------------------------------------------------------------------
+
+## Data
+<a name="data"></a>
+Description of data here...
+
