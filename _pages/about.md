@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD Candidate, University of Wisconsin-Madison. American Politics: election policy and administration, legislative politics, and representation."
+subtitle: # "PhD Candidate, University of Wisconsin-Madison. American Politics: election policy and administration, legislative politics, and representation."
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    <p>Madison, Wisconsin</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
