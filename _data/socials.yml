@@ -2,6 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+work_url: https://polisci.wisc.edu/staff/esplin-jess/
 email: jesplin@wisc.edu # your email address
 scholar_userid: iVLaLc0AAAAJ # your Google Scholar ID
 # inspirehep_id: 1010907 # Inspire HEP author ID
