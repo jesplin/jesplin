@@ -31,6 +31,16 @@ back_to_top: true # set to false to disable the back to top button
 <a name="research"></a>
 Your research description here...
 
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
+
 
 # -----------------------------------------------------------------------------
 # Data Section
