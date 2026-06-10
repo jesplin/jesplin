@@ -26,14 +26,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a PhD Candidate at the University of Wisconsin-Madison in Political Science. I study American Politics, specializing in election policy and administration.
+Welcome! I am a PhD Candidate at the University of Wisconsin-Madison in Political Science. I study American Politics, specializing in election policy and administration. I am on the academic job market for 2026-2027.
 
 <div class="social">
-  <a href="mailto:jesplin@wisc.edu">email</a> &nbsp;·&nbsp;
-  <a href="https://scholar.google.com/citations?user=iVLaLc0AAAAJ">scholar</a> &nbsp;·&nbsp;
+  <a href="/assets/pdf/your-cv.pdf">cv</a> # FIX THIS
+  <a href="https://scholar.google.com/citations?user=iVLaLc0AAAAJ">google scholar</a> &nbsp;·&nbsp;
+  <a href="https://orcid.org">orcid</a> &nbsp;·&nbsp; # FIX THIS
   <a href="https://twitter.com/jessesplin">twitter</a> &nbsp;·&nbsp;
   <a href="https://bsky.app/profile/jessesplin.bsky.social">bluesky</a> &nbsp;·&nbsp;
-  <a href="/assets/pdf/your-cv.pdf">cv</a>
+  <a href="mailto:jesplin@wisc.edu">email</a> &nbsp;·&nbsp;
 </div>
 
 <br>
