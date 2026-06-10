@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD Candidate, University of Wisconsin-Madison</p>
-    <p>Graduate Student Affiliate, Elections Research Center</p>
+    <p>Research Affiliate, Elections Research Center</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,9 +29,9 @@ latest_posts:
 Welcome! I am a PhD Candidate at the University of Wisconsin-Madison in Political Science. I study American Politics, specializing in election policy and administration. I am on the academic job market for 2026-2027.
 
 <div class="social">
-  <a href="/assets/pdf/your-cv.pdf">cv</a> # FIX THIS
+  <a href="/assets/pdf/your-cv.pdf">cv</a>
   <a href="https://scholar.google.com/citations?user=iVLaLc0AAAAJ">google scholar</a> &nbsp;·&nbsp;
-  <a href="https://orcid.org">orcid</a> &nbsp;·&nbsp; # FIX THIS
+  <a href="https://orcid.org">orcid</a> &nbsp;·&nbsp;
   <a href="https://twitter.com/jessesplin">twitter</a> &nbsp;·&nbsp;
   <a href="https://bsky.app/profile/jessesplin.bsky.social">bluesky</a> &nbsp;·&nbsp;
   <a href="mailto:jesplin@wisc.edu">email</a> &nbsp;·&nbsp;
